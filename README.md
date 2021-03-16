@@ -1,4 +1,5 @@
 # SkiddyToast
+Hello! I mostly program in Java or C++.
 ## Current Projects:
 * ToastOS
 
