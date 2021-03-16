@@ -1,6 +1,6 @@
 # SkiddyToast
 ## Current Projects:
-ToastOS
+* ToastOS
 
 
 <!--
