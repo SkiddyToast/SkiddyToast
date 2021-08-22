@@ -1,7 +1,7 @@
 # SkiddyToast
-Hello! I mostly program in Java or C++.
+Hello! I mostly program in Java and C++.
 ## Current Projects:
-* ToastOS
+* Skiddy's GTA Menu
 
 
 <!--
