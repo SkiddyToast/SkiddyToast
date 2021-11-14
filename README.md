@@ -1,7 +1,7 @@
 # SkiddyToast
 Hello! I mostly program in Java and C++.
 ## Current Projects:
-* Skiddy's GTA Menu
+* Sol Menu
 
 
 <!--
